@@ -74,7 +74,7 @@ async def start_command(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton("Channel", url="https://t.me/teamfunnymewat"),
-                    InlineKeyboardButton("🔒 Close", callback_data = "close")
+                    InlineKeyboardButton("links", url="https://t.me/getlinkshere/2")
                 ]
             ]
         )
